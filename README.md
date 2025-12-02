@@ -13,7 +13,7 @@ Your goal is simple: control the vehicle, cross tricky obstacles, and reach the 
 ![Gameplay](IMAGE-LINK-2)
 
 ### Level Complete
-![Level Complete](IMAGE-LINK-3)
+![Level Complete](Screenshot 2025-12-02 102727.png)
 
 ## Features
 - Smooth controls  
