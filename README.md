@@ -7,7 +7,7 @@ Your goal is simple: control the vehicle, cross tricky obstacles, and reach the 
 (Add your GitHub image links here)
 
 ### Menu
-![Menu](IMAGE-LINK-1)
+![Menu](Screenshot 2025-12-02 102710.png)
 
 ### Gameplay
 ![Gameplay](IMAGE-LINK-2)
